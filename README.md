@@ -2,6 +2,7 @@
 Hello, I'm Natallia with a double l.
 Data Analyst.
 
+![Banner](https://github.com/NatalliaDanilchanka/NatalliaDanilchanka/blob/main/assets/banner_portfolio.png)
 
 Developing dashboards on Power BI.
 Data analysis and reporting using Google Sheets and Excel.
