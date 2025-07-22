@@ -1,4 +1,2 @@
 ### 🛠️ Tools
-Language: SQL, Python
-
-Visualization: Power BI
+- Python, SQL, Excel, Power BI
